@@ -631,7 +631,7 @@ body {
   row-gap: 58px;
   margin-top: 10px;
   padding-top: 45px;
-  height: 600px;
+  height: 500px;
   overflow-y: scroll;
 }
 
@@ -652,7 +652,7 @@ body {
 }
 
 .prduct_list-items {
-  width: 192px;
+  min-width: 80%;
   height: 226px;
   border-radius: 16px;
   background-color: var(--bg-color-full);
